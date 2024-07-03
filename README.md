@@ -33,9 +33,10 @@ cat /var/log/user_management.log
 ```
 <br>
 View the generated passwords: 
+
 ```
 sudo cat /var/secure/user_passwords.txt 
 ```
 
 # Blog Post
-
+Find the link to the blog post <a href="https://hashnode.com/draft/668408e54be983e484791b69"> here </a>
