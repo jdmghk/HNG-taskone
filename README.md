@@ -9,16 +9,20 @@ Password Storage: Stores generated passwords securely in ```/var/secure/user_pas
 Detailed Information: For detailed explanation of each step and how to run the script, please refer to the 
 
 # Execution Steps
+
+# 1.Clone the repo: 
 ```
-1.Clone the repo: https://github.com/jdmghk/HNG-taskone
+https://github.com/jdmghk/HNG-taskone
 cd HNG-taskone
 ```
+
+# 2.Make the script executable:
 ```
-2.Make the script executable:
 chmod +x create_users.sh
 ```
+
+# 3. Run the script with an input file:
 ```
-3. Run the script with an input file:
    sudo ./create_users.sh <input_file>
 ```
 
