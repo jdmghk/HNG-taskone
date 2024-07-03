@@ -3,9 +3,9 @@
 This Bash script automates user and group management on a Linux system. It reads usernames and associated groups from a file, creates users with random passwords, assigns them to groups, and logs all actions.
 
 # Overview
-Functionality: Creates users, sets up home directories, assigns users to specified groups, generates random passwords, and logs actions.
-Logging: Logs all actions to ```/var/log/user_management.log.```
-Password Storage: Stores generated passwords securely in ```/var/secure/user_passwords.txt.```
+Functionality: Creates users, sets up home directories, assigns users to specified groups, generates random passwords, and logs actions.<br>
+Logging: Logs all actions to ```/var/log/user_management.log.```<br>
+Password Storage: Stores generated passwords securely in ```/var/secure/user_passwords.txt.```<br>
 Detailed Information: For detailed explanation of each step and how to run the script, please refer to the blog <a href="https://hashnode.com/draft/668408e54be983e484791b69">here</a>
 
 # Execution Steps
