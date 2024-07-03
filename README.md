@@ -26,12 +26,13 @@ chmod +x create_users.sh
    sudo ./create_users.sh <input_file>
 ```
 
-4.Verify: ``
-*Check the log file for performed actions:
+4.Verify: <br>
+Check the log file for performed actions:
 ```
 cat /var/log/user_management.log
 ```
-*View the generated passwords: ``
+<br>
+View the generated passwords: 
 ```
 sudo cat /var/secure/user_passwords.txt 
 ```
