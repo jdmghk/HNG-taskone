@@ -6,7 +6,7 @@ This Bash script automates user and group management on a Linux system. It reads
 Functionality: Creates users, sets up home directories, assigns users to specified groups, generates random passwords, and logs actions.<br>
 Logging: Logs all actions to ```/var/log/user_management.log.```<br>
 Password Storage: Stores generated passwords securely in ```/var/secure/user_passwords.txt.```<br>
-Detailed Information: For detailed explanation of each step and how to run the script, please refer to the blog <a href="https://hashnode.com/draft/668408e54be983e484791b69">here</a>
+Detailed Information: For detailed explanation of each step and how to run the script, please refer to the blog <a href="https://jacinthdavid.hashnode.dev/automating-user-and-group-management-with-a-bash-script">here</a>
 
 # Execution Steps
 
@@ -39,4 +39,4 @@ sudo cat /var/secure/user_passwords.txt
 ```
 
 # Blog Post
-Find the link to the blog post <a href="https://hashnode.com/draft/668408e54be983e484791b69"> here </a>
+Find the link to the blog post <a href="https://jacinthdavid.hashnode.dev/automating-user-and-group-management-with-a-bash-script"> here </a>
